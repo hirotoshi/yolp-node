@@ -1,0 +1,33 @@
+{
+  "name": "yolp",
+  "version": "0.1.0",
+  "author": {
+    "name": "Hirotoshi Maeda",
+    "email": "hir.maeda@gmail.com"
+  },
+  "description": "Generates node client libs for YOLP(Yahoo! OpenLocalPlatform)",
+  "contributors": [
+    {
+      "name": "Hirotoshi Maeda",
+      "email": "hir.maeda@gmail.com"
+    }
+  ],
+  "main": "./lib/yolp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hirotoshi/yolp-node.git"
+  },
+  "keywords": [
+    "node.js",
+    "node",
+    "yolp",
+    "api",
+    "yahoo",
+    "client"
+  ],
+  "dependencies": {
+    "request": "*"
+  },
+  "license": "MIT",
+  "readme": ""
+}
